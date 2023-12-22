@@ -33,3 +33,4 @@ Power BI , PowerPoint Presentation
 
 
 # Demo
+https://github.com/alotlikar1010/CodeBasics_Challenge_8_Banking_Domain/blob/main/BI%20Demo.mp4
