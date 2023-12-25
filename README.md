@@ -27,10 +27,6 @@ https://codebasics.io/challenge/codebasics-resume-project-challenge
 # Tools and Technology
 Power BI , PowerPoint Presentation
 
-# Revenue Insights
-
-
-
 
 # Demo
 
